@@ -1,3 +1,3 @@
 # RoboProcessBench-Figures
 
-Revised figures of RoboProcessBench. Thank you for your insightful reviews!
+Revised figures for RoboProcessBench. Thank you for your insightful opinions!
